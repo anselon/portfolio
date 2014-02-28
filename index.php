@@ -70,7 +70,7 @@ NOTES: about me text is still on page!! Not hidden.
   </script>
                           
                    
-<body onload="about()">
+<body>
 
 
  <p class="excuse"> Please excuse the appearance. This site is currently under construction. </p>
@@ -119,8 +119,9 @@ NOTES: about me text is still on page!! Not hidden.
       I am not only passionate about programming, but also design and social change. 
       I want to write code that matters. I plan to pursue a career that allows me to understand my users, 
       and write code that will have a positive impact on their lives.
-
+  <br/> <br/> <br/> 
        </p>
+     
 
 
       </div> 
@@ -140,9 +141,9 @@ NOTES: about me text is still on page!! Not hidden.
               <span id ="dtc"> 
                 <div style="margin-left:5px;"> <b>Push-to-Pull</b>
                     <div class="date"> Northwestern University, winter 2013</div>
-                   <p>Won the Design Award for the Push-to-Pull, a push bar, which can be retrofitted to a pull door to allow users to avoid
+                   <p class="blurbtext">Won the Design Award for the Push-to-Pull, a push bar, which can be retrofitted to a pull door to allow users to avoid
                     using their hands to open doors and mitigate the spread of bacteria through door handles.</p>
-                    <p>Conducted research and user observations, created mock-ups, built working prototype, designed poster for the Segal
+                    <p class="blurbtext">Conducted research and user observations, created mock-ups, built working prototype, designed poster for the Segal
                     Design Expo, wrote final report and met with client.</p>
                   
                 </div>
@@ -152,10 +153,10 @@ NOTES: about me text is still on page!! Not hidden.
               <span id = "wnur">
                 <div style="margin-left:5px;"> <b>WNUR.org</b>
                   <div class="date"> Northwestern University, spring 2013</div>
-                  <p>As webmaster of wnur.org, I am currently implimenting a Wordpress plugin that 
+                  <p class="blurbtext">As webmaster of wnur.org, I am currently implimenting a Wordpress plugin that 
                   includes a new schedule page to include in their site as well as an intuitive administration page
                   where staff can input the schedule details for each quarter. I also troubleshoot any issues
-                  the staff has with posting new content. </p> <p>This position and project has allowed me to improve my proficiency in HTML, CSS,
+                  the staff has with posting new content. </p> <p class="blurbtext">This position and project has allowed me to improve my proficiency in HTML, CSS,
                   and PHP and practice collaborating in a team with non-developers to create an effective plugin that is both intuitive for users
                   and efficient from a programmer's prospective.</p>
                   </div>
@@ -164,19 +165,19 @@ NOTES: about me text is still on page!! Not hidden.
               <span id = "safe">
                 <div style="margin-left:5px;"> <b>Predicting Safe Ride Wait Time</b>
                   <div class="date" >partnered with Green Chicago Restaurant Coalition, Design for America Summer 2012</div>
-                    <p>Aqua Cycle is a service that reduces water waste in restaurants by connecting restaurants with local landscape
+                    <p class="blurbtext">Aqua Cycle is a service that reduces water waste in restaurants by connecting restaurants with local landscape
                      projects. Landscapers then use the restaurants’ reusable water waste as a water source.</p>
-                    <p>Organized and conducted user interviews and observations, storyboarded the life cycle of water in a restaurant,
+                    <p class="blurbtext">Organized and conducted user interviews and observations, storyboarded the life cycle of water in a restaurant,
                      brainstormed solutions, tested mock-ups with users and presented final ideas to partners and design professionals.</p>
                   
                 </div>
               </span>
               <span id = "dc">
                 <div style="margin-left:5px;"><b>Autonomous Robot Design Competition</b><div class ="date">Northwestern University, winter-spring 2013</div>
-                <p>Last spring, I competed in a robot competition with one other partner. The goal was to create a robot that could pick up 
+                <p class="blurbtext">Last spring, I competed in a robot competition with one other partner. The goal was to create a robot that could pick up 
                 small objects in an arena and return them to a homebase. I designed and built the chassis for the robot as well as helped design 
                 and debug the program we ran on the robot's PIC32.</p>
-                <p>This project challenged me to apply my background in Computer Science to another field, mechatronics, in which I did not 
+                <p class="blurbtext">This project challenged me to apply my background in Computer Science to another field, mechatronics, in which I did not 
                   have any previous experience. Simultaneously trying to create an efficient program, a sturdy mechanical design and a well-organized
                   electrical system to work together as one robot was great puzzle that I will never forget.   
                 </p>
